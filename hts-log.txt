@@ -1,0 +1,73 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 30 Aug 2018 04:16:47 at https://patrickdavid.com/index +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://patrickdavid.com/index*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "en, *" https://patrickdavid.com/index -O1 "C:\My Web Sites\patrick" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://patrickdavid.com/index* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:18:06	Warning: 	Moved Permanently for https://patrickdavid.com/agency/
+04:18:06	Warning: 	File has moved from https://patrickdavid.com/agency/ to http://patrickdavid.com/agency
+04:18:06	Warning: 	Moved Permanently for https://patrickdavid.com/it/agenzia/
+04:18:06	Warning: 	File has moved from https://patrickdavid.com/it/agenzia/ to http://patrickdavid.com/it/agenzia
+04:18:06	Warning: 	Moved Permanently for https://patrickdavid.com/work/
+04:18:06	Warning: 	File has moved from https://patrickdavid.com/work/ to http://patrickdavid.com/work
+04:18:06	Warning: 	Moved Permanently for https://patrickdavid.com/contact/
+04:18:06	Warning: 	File has moved from https://patrickdavid.com/contact/ to http://patrickdavid.com/contact
+04:18:06	Warning: 	Moved Permanently for https://patrickdavid.com/it/contatti/
+04:18:06	Warning: 	File has moved from https://patrickdavid.com/it/contatti/ to http://patrickdavid.com/it/contatti
+04:18:06	Warning: 	Moved Permanently for https://patrickdavid.com/look-occhiali/
+04:18:06	Warning: 	File has moved from https://patrickdavid.com/look-occhiali/ to http://patrickdavid.com/look-occhiali
+04:18:06	Warning: 	Moved Permanently for https://patrickdavid.com/toscano-real-estate/
+04:18:06	Warning: 	File has moved from https://patrickdavid.com/toscano-real-estate/ to http://patrickdavid.com/toscano-real-estate
+04:18:06	Warning: 	Moved Permanently for https://patrickdavid.com/userbot/
+04:18:06	Warning: 	File has moved from https://patrickdavid.com/userbot/ to http://patrickdavid.com/userbot
+04:18:06	Warning: 	Moved Permanently for https://patrickdavid.com/food-delivery-report/
+04:18:06	Warning: 	File has moved from https://patrickdavid.com/food-delivery-report/ to http://patrickdavid.com/food-delivery-report
+04:18:06	Warning: 	Moved Permanently for https://patrickdavid.com/emmearredo/
+04:18:06	Warning: 	File has moved from https://patrickdavid.com/emmearredo/ to http://patrickdavid.com/emmearredo
+04:18:06	Warning: 	Moved Permanently for https://patrickdavid.com/oleomec/
+04:18:06	Warning: 	File has moved from https://patrickdavid.com/oleomec/ to http://patrickdavid.com/oleomec
+04:18:06	Warning: 	Moved Permanently for https://patrickdavid.com/panevino-architettura/
+04:18:06	Warning: 	File has moved from https://patrickdavid.com/panevino-architettura/ to http://patrickdavid.com/panevino-architettura
+04:18:06	Warning: 	Moved Permanently for https://patrickdavid.com/it/siti-internet-belluno/
+04:18:06	Warning: 	File has moved from https://patrickdavid.com/it/siti-internet-belluno/ to http://patrickdavid.com/it/siti-internet-belluno
+04:18:06	Warning: 	Moved Permanently for https://patrickdavid.com/privacy-policy/
+04:18:06	Warning: 	File has moved from https://patrickdavid.com/privacy-policy/ to http://patrickdavid.com/privacy-policy
+04:18:06	Warning: 	Moved Permanently for https://patrickdavid.com/it/agency/
+04:18:06	Warning: 	File has moved from https://patrickdavid.com/it/agency/ to http://patrickdavid.com/it/agency
+04:18:07	Warning: 	Moved Permanently for https://patrickdavid.com/it/progetti/
+04:18:07	Warning: 	File has moved from https://patrickdavid.com/it/progetti/ to http://patrickdavid.com/it/progetti
+04:18:07	Warning: 	Moved Permanently for https://patrickdavid.com/it/look-occhiali/
+04:18:07	Warning: 	File has moved from https://patrickdavid.com/it/look-occhiali/ to http://patrickdavid.com/it/look-occhiali
+04:18:07	Warning: 	Moved Permanently for https://patrickdavid.com/it/userbot/
+04:18:07	Warning: 	File has moved from https://patrickdavid.com/it/userbot/ to http://patrickdavid.com/it/userbot
+04:18:07	Warning: 	Moved Permanently for https://patrickdavid.com/it/food-delivery-report/
+04:18:07	Warning: 	File has moved from https://patrickdavid.com/it/food-delivery-report/ to http://patrickdavid.com/it/food-delivery-report
+04:18:07	Warning: 	Moved Permanently for https://patrickdavid.com/it/agenzia-immobiliare-toscano/
+04:18:07	Warning: 	File has moved from https://patrickdavid.com/it/agenzia-immobiliare-toscano/ to http://patrickdavid.com/it/agenzia-immobiliare-toscano
+04:18:07	Warning: 	Moved Permanently for https://patrickdavid.com/it/emmearredo/
+04:18:07	Warning: 	File has moved from https://patrickdavid.com/it/emmearredo/ to http://patrickdavid.com/it/emmearredo
+04:18:07	Warning: 	Moved Permanently for https://patrickdavid.com/it/oleomec/
+04:18:07	Warning: 	File has moved from https://patrickdavid.com/it/oleomec/ to http://patrickdavid.com/it/oleomec
+04:18:07	Warning: 	Moved Permanently for https://patrickdavid.com/it/panevino-architettura/
+04:18:07	Warning: 	File has moved from https://patrickdavid.com/it/panevino-architettura/ to http://patrickdavid.com/it/panevino-architettura
+04:18:42	Warning: 	Moved Permanently for https://patrickdavid.com/it/privacy-policy/
+04:18:42	Warning: 	File has moved from https://patrickdavid.com/it/privacy-policy/ to http://patrickdavid.com/it/privacy-policy
+04:18:42	Warning: 	Moved Permanently for https://patrickdavid.com/404/
+04:18:42	Warning: 	File has moved from https://patrickdavid.com/404/ to http://patrickdavid.com/404
+04:18:42	Warning: 	Moved Permanently for https://patrickdavid.com/it/siti-internet-belluno-treviso/
+04:18:42	Warning: 	File has moved from https://patrickdavid.com/it/siti-internet-belluno-treviso/ to http://patrickdavid.com/it/siti-internet-belluno-treviso
+04:18:42	Warning: 	Moved Permanently for https://patrickdavid.com/it/siti-wordpress-belluno-treviso/
+04:18:42	Warning: 	File has moved from https://patrickdavid.com/it/siti-wordpress-belluno-treviso/ to http://patrickdavid.com/it/siti-wordpress-belluno-treviso
+04:18:42	Warning: 	Moved Permanently for https://patrickdavid.com/it/web-marketing-belluno-treviso/
+04:18:42	Warning: 	File has moved from https://patrickdavid.com/it/web-marketing-belluno-treviso/ to http://patrickdavid.com/it/web-marketing-belluno-treviso
+04:18:42	Warning: 	Moved Permanently for https://patrickdavid.com/it/realizzazione-app-belluno-treviso/
+04:18:42	Warning: 	File has moved from https://patrickdavid.com/it/realizzazione-app-belluno-treviso/ to http://patrickdavid.com/it/realizzazione-app-belluno-treviso
+04:18:42	Warning: 	Moved Permanently for https://patrickdavid.com/it/siti-web-belluno/
+04:18:42	Warning: 	File has moved from https://patrickdavid.com/it/siti-web-belluno/ to http://patrickdavid.com/it/siti-web-belluno
+04:18:42	Warning: 	Moved Permanently for https://patrickdavid.com/it/web-agency-belluno/
+04:18:42	Warning: 	File has moved from https://patrickdavid.com/it/web-agency-belluno/ to http://patrickdavid.com/it/web-agency-belluno
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 55 seconds : 110 links scanned, 78 files written (5252321 bytes overall) [4505482 bytes received at 39178 bytes/sec], 1048547 bytes transferred using HTTP compression in 38 files, ratio 20%, 12.8 requests per connection
+(No errors, 62 warnings, 0 messages)
